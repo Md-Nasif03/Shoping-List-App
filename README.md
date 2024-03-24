@@ -4,7 +4,7 @@
 📫 Gmail: mdnasif03@gmail.com <br>
 😄 Pronouns: he/him<br>
 # Shopping-List-App
-This Android application is a shopping list manager that allows users to create, edit, and delete shopping list items. The app has a simple and intuitive user interface with a button to add new items, a list of existing items, and the ability to edit or delete individual items.
+This Android application is a shopping list manager that allows users to create, edit, and delete shopping list items. The app has a simple and intuitive user interface with a button to add new items, a list of existing items, and the ability to edit or delete individual items.<br>
 Features:<br>
 Create, edit, and delete shopping list items.<br>
 User-friendly interface with a button to add new items and a list of existing items.<br>
